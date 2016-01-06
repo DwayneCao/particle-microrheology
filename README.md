@@ -2,9 +2,9 @@
 
 ---
 
-*Matthias Christoph Munder*
-*@mcmunder*     
-*http://matthiasmunder.de*
+*Matthias Christoph Munder*   
+*@mcmunder*        
+*http://matthiasmunder.de*   
 
 ---
 
