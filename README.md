@@ -2,14 +2,6 @@
 
 [![Join the chat at https://gitter.im/mcmunder/particle-microrheology](https://badges.gitter.im/mcmunder/particle-microrheology.svg)](https://gitter.im/mcmunder/particle-microrheology?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
----
-
-*Matthias Christoph Munder*   
-*@mcmunder*        
-*http://matthiasmunder.de*   
-
----
-
 ## Description
 Simple R-code for MSD analysis of particle trajectories. Written by a biologist ;-)
 
